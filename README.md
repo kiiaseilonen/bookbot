@@ -19,15 +19,17 @@ python3 main.py
 
 ## Features
 
-Counts the frequency of each alphabet character in a text file.
-Generates an easy-to-read report sorted alphabetically by character.
-Excludes non-alphabetic characters from the final report.
+* Counts the frequency of each alphabet character in a text file.
+* Generates an easy-to-read report sorted alphabetically by character.
+* Excludes non-alphabetic characters from the final report.
 
 ## Example Output
 
+```
 --- Begin report ---
 The 'a' character was found 26743 times
 The 'b' character was found 5026 times
 The 'c' character was found 9243 times
 ...
 --- End report ---
+```
